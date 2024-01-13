@@ -1,0 +1,16 @@
+  .content{
+    grid-area: c;
+    background-color: rgb(177, 154, 240);
+  
+  }
+
+  /* .item{
+    color: aqua;
+  }
+  .itemred{
+    color: rgb(255, 0, 0);
+  } */
+
+  .img{
+    height: 400px;
+  }
